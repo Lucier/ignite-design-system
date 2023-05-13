@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-   <a href="https://github.com/gustavonobrega">
-    <img src="https://img.shields.io/badge/author-gustavonobrega-00875f" alt="Author">
+   <a href="https://github.com/Lucier">
+    <img src="https://img.shields.io/badge/author-lucierlima-00875f" alt="Author">
    </a>
 </p>
 
@@ -28,4 +28,4 @@ This project was developed with the following technologies:
 
 ---
 
-Made with ♥ by Gustavo Nobrega
+Made with ♥ by Lucier Lima
